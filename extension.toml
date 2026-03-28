@@ -1,0 +1,10 @@
+id = "phosphor"
+name = "Phosphor"
+version = "0.0.1"
+schema_version = 1
+authors = ["Codenii <me@codeni.wiki>"]
+description = "Dark Green theme, with yellow highlights. Includes bold and punchy syntax highlighting"
+repository = "https://github.com/Codenii/phosphor-zed"
+
+[themes]
+"themes/phosphor.json" = ["Phosphor Default"]
