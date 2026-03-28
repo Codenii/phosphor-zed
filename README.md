@@ -1,5 +1,7 @@
 ## Phosphor
-A dark green terminal-inspired theme with yellow text and cyan accents.
+The primary philosophy behind Phosphor is to be bold, punchy, and loud. Its meant to stand out.  
+With that said; Phosphor is a dark green terminal-inspired theme with electric yellow keywords, cyan strings, magenta properties, and mint green constants.
+
 
 ## Color Palette
 - **Background:** #082408
